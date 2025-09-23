@@ -8,16 +8,13 @@ Building on this foundation, the second layer of analysis breaks down sales driv
 # Data & Methodology  
 
 ## Data Structure  
-<img src="dbdiagram.png" alt="Database schema showing relationship between Orders and Region tables" width="60%"/>
+<img src="dbdiagram_.png" alt="Database schema showing relationship between Orders and Region tables" width="60%"/>
 
-The dataset consisted of two related tables. **Orders** contained transaction-level details such as purchase timestamps, prices, country codes, and marketing channels. **Region** mapped 'country_codes' to their corresponding regional groupings. The two tables were joined on 'country_code' to integrate regional information into the transaction data for analysis.
+The dataset consisted of two related tables. **Orders** contained transaction-level details such as purchase timestamps, prices, country codes, and marketing channels. **Region** contained country codes and their associated regional groupings. The two tables were joined on `country_code` to integrate regional information into the order data for analysis.
 
 ## Data Transformation and Augmentation  
 ![Issues log documenting data quality checks](issues_log.png)
 
-Once joined, the data was prepared for analysis through a series of cleaning and transformation steps carried out in Excel. An issues log was maintained throughout this process to provide visibility and documentation of quality concerns. Key activities included:  
-- Standardising date fields to ensure consistency across time-based analysis.  
-- Recategorising inconsistent product names.  
-- Handling missing values in the marketing channel and region fields.  
-- Identifying duplicates and logical inconsistencies such as ship dates preceding purchase dates.  
-- Logging unresolved anomalies (e.g., missing purchase timestamps, zero-dollar transactions) for stakeholder review.  
+Once joined, the data was prepared for analysis through a series of cleaning and transformation steps carried out in Excel. An issues log was maintained throughout this process to provide visibility and documentation of quality concerns. 
+
+Key preparation steps included standardising date fields, aligning inconsistent product names, and recategorising missing marketing channel and account creation method values. Region assignments were verified against country codes, while unresolved anomalies such as blanks in country codes, duplicate order IDs, zero-dollar transactions, and purchase/ship timestamp inconsistencies were documented for stakeholder review.
