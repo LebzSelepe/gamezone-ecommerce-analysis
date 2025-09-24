@@ -5,6 +5,16 @@ The first layer of analysis tracks monthly sales trends and month-on-month growt
 
 Building on this foundation, the second layer of analysis breaks down sales drivers across regions, marketing channels, and product categories. These insights inform strategic decisions around regional investment, channel prioritisation, and product strategy.  
 
+## Executive Summary  
+Key takeaways include:  
+- **Sales and Orders Growth:** Sales and orders increased strongly between 2019 and 2021, with 2020 showing the fastest acceleration. Growth was driven more by order volume than higher transaction values.  
+- **Seasonal Spikes:** Q4 peaks, particularly in December, highlight the holiday season as a critical revenue driver requiring careful forecasting and preparation.  
+- **Regional Performance:** North America and EMEA lead performance, while LATAM and APAC remain underdeveloped and represent growth opportunities.  
+- **Channel Effectiveness:** Direct sales dominate, email provides meaningful scale at lower AOV, and affiliates generate fewer but higher-value orders.  
+- **Product Concentration:** Sales are concentrated in a small number of gaming hardware and monitor categories, creating both strength and reliance on limited SKUs.  
+
+These findings inform recommendations for stronger seasonal planning, smoothing early-year volatility, regional investment, channel optimisation, and product diversification.  
+
 # Data & Methodology  
 
 ## Data Structure  
@@ -44,18 +54,14 @@ Key preparation steps included standardising date fields, aligning inconsistent 
 - **Q4 remains the strongest driver of annual performance:** Sales peaks in December confirm the holiday season as a critical period requiring resource prioritisation and targeted campaigns.  
 - **Early-year volatility presents risk:** Sharp dips and spikes in Q1 (Jan–Mar) create challenges for forecasting and revenue stability. This calls for proactive demand smoothing through promotions, staggered product launches, or campaigns designed to stabilise sales momentum.  
 
-### Product Categories  
-- **Consoles are the growth engine:** Strong, consistent performance makes this category central to revenue strategy. Continued investment in stock, promotions, and exclusive bundles will sustain momentum.  
-- **Headsets and accessories underperform:** These categories lag behind overall growth. Options include repositioning (adjust pricing, marketing angle, or bundling with stronger products) or, if underperformance persists, diversifying into adjacent categories such as gaming furniture or VR peripherals.  
-
+### Regions  
+- **North America and EMEA are the strongest regions:** High sales and stable growth suggest further scaling efforts and continued focus.  
+- **LATAM and APAC underperform relative to other regions:** These require careful monitoring, with selective investment in promising markets and cautious testing of new growth levers where performance lags.
+  
 ### Marketing Channels  
 - **Direct marketing is the most effective channel:** Higher conversion rates and strong ROI justify further investment and optimisation.  
 - **Lower-performing channels (e.g., affiliates) need scrutiny:** Either refine their targeting or reallocate spend to higher-yield channels.  
 
-### Regions  
-- **North America and EMEA are the strongest regions:** High sales and stable growth suggest further scaling efforts and continued focus.  
-- **LATAM and APAC underperform relative to other regions:** These require careful monitoring, with selective investment in promising markets and cautious testing of new growth levers where performance lags.  
-
-## Appendix / Supporting Materials  
-
-**Transformed Dataset & Workbook:** [GameZone Excel Workbook](./Gamezone_Analysis_Workbook.xlsx)  
+### Product Categories  
+- **Consoles are the growth engine:** Strong, consistent performance makes this category central to revenue strategy. Continued investment in stock, promotions, and exclusive bundles will sustain momentum.  
+- **Headsets and accessories underperform:** These categories lag behind overall growth. Options include repositioning (adjust pricing, marketing angle, or bundling with stronger products) or, if underperformance persists, diversifying into adjacent categories such as gaming furniture or VR peripherals.  
