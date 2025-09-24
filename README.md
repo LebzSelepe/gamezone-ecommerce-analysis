@@ -56,3 +56,6 @@ Key preparation steps included standardising date fields, aligning inconsistent 
 - **North America and EMEA are the strongest regions:** High sales and stable growth suggest further scaling efforts and continued focus.  
 - **LATAM and APAC underperform relative to other regions:** These require careful monitoring, with selective investment in promising markets and cautious testing of new growth levers where performance lags.  
 
+## Appendix / Supporting Materials  
+
+**Transformed Dataset & Workbook:** [GameZone Excel Workbook](./GameZone_Analysis_Workbook.xlsx)  
