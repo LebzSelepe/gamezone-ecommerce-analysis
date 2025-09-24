@@ -38,7 +38,7 @@ Key preparation steps included standardising date fields, aligning inconsistent 
 - **Product mix leaders:** Consoles (Nintendo Switch, PlayStation 5) and monitors (27in 4K gaming) drive the highest volumes and revenue. Variance in AOV is wide, from high-value laptops (Lenovo IdeaPad) to low-value accessories (JBL Quantum headset).  
 - **Q4 uplift by category and region:** Seasonal holiday peaks are reinforced here, with NA and EMEA seeing stronger shares into Q4 and product demand concentrating around consoles and monitors. This aligns with the December spikes seen in overall sales trends.  
 
-## Key Insights and Recommendations
+# Key Insights and Recommendations
 
 ### Seasonality & Demand Patterns  
 - **Q4 remains the strongest driver of annual performance:** Sales peaks in December confirm the holiday season as a critical period requiring resource prioritisation and targeted campaigns.  
